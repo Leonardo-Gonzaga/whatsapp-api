@@ -1,0 +1,298 @@
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:87:68)
+ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+    at /home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:329:24
+    at new Promise (<anonymous>)
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:325:16)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async JSHandle.evaluateHandle (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/JSHandle.js:97:16)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:114:28) {
+  originalMessage: ''
+}
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+/home/leogonzaga/whatsapp-api/index.js:511
+  });
+   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+    at Module._compile (node:internal/modules/cjs/loader:1704:20)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+ProtocolError: Protocol error (Network.getResponseBody): Target closed.
+    at /home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:329:24
+    at new Promise (<anonymous>)
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:325:16)
+    at /home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/HTTPResponse.js:140:100
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async HTTPResponse.text (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/HTTPResponse.js:160:25)
+    at async /home/leogonzaga/whatsapp-api/node_modules/whatsapp-web.js/src/Client.js:771:39 {
+  originalMessage: ''
+}
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:87:68)
+ProtocolError: Protocol error (Network.getResponseBody): Target closed.
+    at /home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:329:24
+    at new Promise (<anonymous>)
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:325:16)
+    at /home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/HTTPResponse.js:140:100
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async HTTPResponse.text (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/HTTPResponse.js:160:25)
+    at async /home/leogonzaga/whatsapp-api/node_modules/whatsapp-web.js/src/Client.js:771:39 {
+  originalMessage: ''
+}
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:87:68)
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:87:68)
+ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+    at /home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:329:24
+    at new Promise (<anonymous>)
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:325:16)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:87:68) {
+  originalMessage: ''
+}
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+    at ExecutionContext._ExecutionContext_evaluate (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:211:46)
+    at async WaitTask.rerun (/home/leogonzaga/whatsapp-api/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:87:68)
