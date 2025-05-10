@@ -1,4 +1,4 @@
 node_modules/
 *.deb
-.local-chromium/
-puppeteer-core/
+*.log
+*.env
